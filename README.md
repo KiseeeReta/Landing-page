@@ -1,2 +1,2 @@
 # Landing-page
- My first job for Skillfactory
+ My first job
